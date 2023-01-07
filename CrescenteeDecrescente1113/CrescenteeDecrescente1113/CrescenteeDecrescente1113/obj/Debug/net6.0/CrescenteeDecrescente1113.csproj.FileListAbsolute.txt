@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\bin\Debug\net6.0\CrescenteeDecrescente1113.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\bin\Debug\net6.0\CrescenteeDecrescente1113.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\bin\Debug\net6.0\CrescenteeDecrescente1113.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\bin\Debug\net6.0\CrescenteeDecrescente1113.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\bin\Debug\net6.0\CrescenteeDecrescente1113.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\refint\CrescenteeDecrescente1113.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\CrescenteeDecrescente1113.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\CrescenteeDecrescente1113\CrescenteeDecrescente1113\CrescenteeDecrescente1113\obj\Debug\net6.0\ref\CrescenteeDecrescente1113.dll

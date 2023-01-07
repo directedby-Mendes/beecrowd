@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\bin\Debug\net6.0\Experiencias1094.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\bin\Debug\net6.0\Experiencias1094.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\bin\Debug\net6.0\Experiencias1094.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\bin\Debug\net6.0\Experiencias1094.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\bin\Debug\net6.0\Experiencias1094.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\refint\Experiencias1094.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\Experiencias1094.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Experiencias1094\Experiencias1094\Experiencias1094\obj\Debug\net6.0\ref\Experiencias1094.dll

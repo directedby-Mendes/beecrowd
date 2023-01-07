@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\bin\Debug\net6.0\SelectionTest1.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\bin\Debug\net6.0\SelectionTest1.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\bin\Debug\net6.0\SelectionTest1.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\bin\Debug\net6.0\SelectionTest1.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\bin\Debug\net6.0\SelectionTest1.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\refint\SelectionTest1.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\SelectionTest1.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SelectionTest1035\SelectionTest1\SelectionTest1\obj\Debug\net6.0\ref\SelectionTest1.dll

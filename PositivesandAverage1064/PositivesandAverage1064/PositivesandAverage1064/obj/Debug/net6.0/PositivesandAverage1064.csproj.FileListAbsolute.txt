@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\bin\Debug\net6.0\PositivesandAverage1064.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\bin\Debug\net6.0\PositivesandAverage1064.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\bin\Debug\net6.0\PositivesandAverage1064.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\bin\Debug\net6.0\PositivesandAverage1064.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\bin\Debug\net6.0\PositivesandAverage1064.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\refint\PositivesandAverage1064.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\PositivesandAverage1064.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositivesandAverage1064\PositivesandAverage1064\PositivesandAverage1064\obj\Debug\net6.0\ref\PositivesandAverage1064.dll

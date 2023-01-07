@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\bin\Debug\net6.0\Distance1016.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\bin\Debug\net6.0\Distance1016.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\bin\Debug\net6.0\Distance1016.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\bin\Debug\net6.0\Distance1016.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\bin\Debug\net6.0\Distance1016.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\refint\Distance1016.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\Distance1016.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Distance1016\Distance1016\Distance1016\obj\Debug\net6.0\ref\Distance1016.dll

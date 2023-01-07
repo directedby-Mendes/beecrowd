@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\bin\Debug\net6.0\SimpleSort1042.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\bin\Debug\net6.0\SimpleSort1042.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\bin\Debug\net6.0\SimpleSort1042.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\bin\Debug\net6.0\SimpleSort1042.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\bin\Debug\net6.0\SimpleSort1042.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\refint\SimpleSort1042.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\SimpleSort1042.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSort1042\SimpleSort1042\SimpleSort1042\obj\Debug\net6.0\ref\SimpleSort1042.dll

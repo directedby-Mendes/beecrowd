@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\bin\Debug\net6.0\MediasPonderadas1079.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\bin\Debug\net6.0\MediasPonderadas1079.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\bin\Debug\net6.0\MediasPonderadas1079.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\bin\Debug\net6.0\MediasPonderadas1079.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\bin\Debug\net6.0\MediasPonderadas1079.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\refint\MediasPonderadas1079.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\MediasPonderadas1079.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\MediasPonderadas1079\MediasPonderadas1079\MediasPonderadas1079\obj\Debug\net6.0\ref\MediasPonderadas1079.dll

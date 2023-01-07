@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\bin\Debug\net6.0\PositiveNumbers1060.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\bin\Debug\net6.0\PositiveNumbers1060.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\bin\Debug\net6.0\PositiveNumbers1060.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\bin\Debug\net6.0\PositiveNumbers1060.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\bin\Debug\net6.0\PositiveNumbers1060.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\refint\PositiveNumbers1060.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\PositiveNumbers1060.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\PositiveNumbers1060\PositiveNumbers1060\PositiveNumbers1060\obj\Debug\net6.0\ref\PositiveNumbers1060.dll

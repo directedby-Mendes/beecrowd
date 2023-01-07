@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\bin\Debug\net6.0\FuelSpent1017.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\bin\Debug\net6.0\FuelSpent1017.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\bin\Debug\net6.0\FuelSpent1017.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\bin\Debug\net6.0\FuelSpent1017.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\bin\Debug\net6.0\FuelSpent1017.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\refint\FuelSpent1017.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\FuelSpent1017.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\FuelSpent1017\FuelSpent1017\FuelSpent1017\obj\Debug\net6.0\ref\FuelSpent1017.dll

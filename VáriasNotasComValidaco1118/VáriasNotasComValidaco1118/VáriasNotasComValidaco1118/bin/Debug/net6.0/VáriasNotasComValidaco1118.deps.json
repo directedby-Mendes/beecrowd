@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VáriasNotasComValidaco1118/1.0.0": {
+        "runtime": {
+          "VáriasNotasComValidaco1118.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VáriasNotasComValidaco1118/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

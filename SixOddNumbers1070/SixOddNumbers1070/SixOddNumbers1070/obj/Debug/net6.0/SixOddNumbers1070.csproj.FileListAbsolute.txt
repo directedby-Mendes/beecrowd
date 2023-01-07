@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\bin\Debug\net6.0\SixOddNumbers1070.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\bin\Debug\net6.0\SixOddNumbers1070.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\bin\Debug\net6.0\SixOddNumbers1070.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\bin\Debug\net6.0\SixOddNumbers1070.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\bin\Debug\net6.0\SixOddNumbers1070.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\refint\SixOddNumbers1070.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\SixOddNumbers1070.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SixOddNumbers1070\SixOddNumbers1070\SixOddNumbers1070\obj\Debug\net6.0\ref\SixOddNumbers1070.dll

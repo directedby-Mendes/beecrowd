@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SumofConsecutiveOddNumbersI1071/1.0.0": {
+        "runtime": {
+          "SumofConsecutiveOddNumbersI1071.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SumofConsecutiveOddNumbersI1071/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

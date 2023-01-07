@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\bin\Debug\net6.0\TiposDeTriangulos1045.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\bin\Debug\net6.0\TiposDeTriangulos1045.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\bin\Debug\net6.0\TiposDeTriangulos1045.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\bin\Debug\net6.0\TiposDeTriangulos1045.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\bin\Debug\net6.0\TiposDeTriangulos1045.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\refint\TiposDeTriangulos1045.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\TiposDeTriangulos1045.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TiposDeTriangulos1045\TiposDeTriangulos1045\TiposDeTriangulos1045\obj\Debug\net6.0\ref\TiposDeTriangulos1045.dll

@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\bin\Debug\net6.0\salaryincrease1048.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\bin\Debug\net6.0\salaryincrease1048.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\bin\Debug\net6.0\salaryincrease1048.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\bin\Debug\net6.0\salaryincrease1048.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\bin\Debug\net6.0\salaryincrease1048.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\refint\salaryincrease1048.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\salaryincrease1048.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\salaryincrease1048\salaryincrease1048\salaryincrease1048\obj\Debug\net6.0\ref\salaryincrease1048.dll

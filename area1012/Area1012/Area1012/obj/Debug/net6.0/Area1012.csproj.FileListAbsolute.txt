@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\bin\Debug\net6.0\Area1012.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\bin\Debug\net6.0\Area1012.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\bin\Debug\net6.0\Area1012.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\bin\Debug\net6.0\Area1012.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\bin\Debug\net6.0\Area1012.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\refint\Area1012.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\Area1012.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\area1012\Area1012\Area1012\obj\Debug\net6.0\ref\Area1012.dll

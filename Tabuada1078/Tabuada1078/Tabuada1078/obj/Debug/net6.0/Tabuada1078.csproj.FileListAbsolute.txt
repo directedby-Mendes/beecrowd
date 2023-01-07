@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\bin\Debug\net6.0\Tabuada1078.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\bin\Debug\net6.0\Tabuada1078.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\bin\Debug\net6.0\Tabuada1078.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\bin\Debug\net6.0\Tabuada1078.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\bin\Debug\net6.0\Tabuada1078.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\refint\Tabuada1078.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\Tabuada1078.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Tabuada1078\Tabuada1078\Tabuada1078\obj\Debug\net6.0\ref\Tabuada1078.dll

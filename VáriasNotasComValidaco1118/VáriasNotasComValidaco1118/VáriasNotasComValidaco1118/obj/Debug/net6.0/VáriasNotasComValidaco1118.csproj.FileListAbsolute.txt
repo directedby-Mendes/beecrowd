@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\bin\Debug\net6.0\VáriasNotasComValidaco1118.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\bin\Debug\net6.0\VáriasNotasComValidaco1118.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\bin\Debug\net6.0\VáriasNotasComValidaco1118.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\bin\Debug\net6.0\VáriasNotasComValidaco1118.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\bin\Debug\net6.0\VáriasNotasComValidaco1118.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\refint\VáriasNotasComValidaco1118.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\VáriasNotasComValidaco1118.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\VáriasNotasComValidaco1118\obj\Debug\net6.0\ref\VáriasNotasComValidaco1118.dll

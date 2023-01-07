@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\bin\Debug\net6.0\SimpleSum.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\bin\Debug\net6.0\SimpleSum.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\bin\Debug\net6.0\SimpleSum.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\bin\Debug\net6.0\SimpleSum.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\bin\Debug\net6.0\SimpleSum.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\refint\SimpleSum.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\SimpleSum.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SimpleSum_1003\SimpleSum\SimpleSum\obj\Debug\net6.0\ref\SimpleSum.dll

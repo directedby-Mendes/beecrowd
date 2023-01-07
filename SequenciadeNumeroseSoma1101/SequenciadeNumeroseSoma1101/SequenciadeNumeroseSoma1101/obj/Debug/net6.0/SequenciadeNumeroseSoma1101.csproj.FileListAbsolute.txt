@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\bin\Debug\net6.0\SequenciadeNumeroseSoma1101.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\bin\Debug\net6.0\SequenciadeNumeroseSoma1101.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\bin\Debug\net6.0\SequenciadeNumeroseSoma1101.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\bin\Debug\net6.0\SequenciadeNumeroseSoma1101.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\bin\Debug\net6.0\SequenciadeNumeroseSoma1101.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\refint\SequenciadeNumeroseSoma1101.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\SequenciadeNumeroseSoma1101.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\SequenciadeNumeroseSoma1101\obj\Debug\net6.0\ref\SequenciadeNumeroseSoma1101.dll

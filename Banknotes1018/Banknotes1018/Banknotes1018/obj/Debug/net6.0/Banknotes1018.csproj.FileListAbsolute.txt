@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\bin\Debug\net6.0\Banknotes1018.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\bin\Debug\net6.0\Banknotes1018.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\bin\Debug\net6.0\Banknotes1018.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\bin\Debug\net6.0\Banknotes1018.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\bin\Debug\net6.0\Banknotes1018.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\refint\Banknotes1018.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\Banknotes1018.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\Banknotes1018\Banknotes1018\Banknotes1018\obj\Debug\net6.0\ref\Banknotes1018.dll

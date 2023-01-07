@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\bin\Debug\net6.0\GRENAIS1131.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\bin\Debug\net6.0\GRENAIS1131.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\bin\Debug\net6.0\GRENAIS1131.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\bin\Debug\net6.0\GRENAIS1131.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\bin\Debug\net6.0\GRENAIS1131.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\refint\GRENAIS1131.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\GRENAIS1131.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\VáriasNotasComValidaco1118\GRENAIS1131\GRENAIS1131\obj\Debug\net6.0\ref\GRENAIS1131.dll

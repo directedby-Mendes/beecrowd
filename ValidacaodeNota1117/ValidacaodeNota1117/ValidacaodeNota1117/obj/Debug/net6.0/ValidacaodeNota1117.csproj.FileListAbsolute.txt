@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\bin\Debug\net6.0\ValidacaodeNota1117.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\bin\Debug\net6.0\ValidacaodeNota1117.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\bin\Debug\net6.0\ValidacaodeNota1117.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\bin\Debug\net6.0\ValidacaodeNota1117.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\bin\Debug\net6.0\ValidacaodeNota1117.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\refint\ValidacaodeNota1117.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ValidacaodeNota1117.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\ValidacaodeNota1117\ValidacaodeNota1117\ValidacaodeNota1117\obj\Debug\net6.0\ref\ValidacaodeNota1117.dll

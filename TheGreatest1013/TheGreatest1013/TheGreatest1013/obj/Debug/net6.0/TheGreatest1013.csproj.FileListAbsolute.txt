@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\bin\Debug\net6.0\TheGreatest1013.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\bin\Debug\net6.0\TheGreatest1013.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\bin\Debug\net6.0\TheGreatest1013.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\bin\Debug\net6.0\TheGreatest1013.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\bin\Debug\net6.0\TheGreatest1013.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\refint\TheGreatest1013.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\TheGreatest1013.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\TheGreatest1013\TheGreatest1013\TheGreatest1013\obj\Debug\net6.0\ref\TheGreatest1013.dll

@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\bin\Debug\net6.0\sphere1011.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\bin\Debug\net6.0\sphere1011.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\bin\Debug\net6.0\sphere1011.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\bin\Debug\net6.0\sphere1011.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\bin\Debug\net6.0\sphere1011.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\refint\sphere1011.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\sphere1011.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\1011\sphere1011\sphere1011\obj\Debug\net6.0\ref\sphere1011.dll

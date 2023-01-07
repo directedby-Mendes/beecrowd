@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\bin\Debug\net6.0\SenhaFixa1114.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\bin\Debug\net6.0\SenhaFixa1114.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\bin\Debug\net6.0\SenhaFixa1114.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\bin\Debug\net6.0\SenhaFixa1114.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\bin\Debug\net6.0\SenhaFixa1114.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\refint\SenhaFixa1114.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\SenhaFixa1114.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\SenhaFixa1114\SenhaFixa1114\SenhaFixa1114\obj\Debug\net6.0\ref\SenhaFixa1114.dll

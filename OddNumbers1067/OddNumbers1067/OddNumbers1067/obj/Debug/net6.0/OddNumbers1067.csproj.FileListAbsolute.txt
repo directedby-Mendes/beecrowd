@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\bin\Debug\net6.0\OddNumbers1067.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\bin\Debug\net6.0\OddNumbers1067.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\bin\Debug\net6.0\OddNumbers1067.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\bin\Debug\net6.0\OddNumbers1067.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\bin\Debug\net6.0\OddNumbers1067.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\refint\OddNumbers1067.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\OddNumbers1067.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\OddNumbers1067\OddNumbers1067\OddNumbers1067\obj\Debug\net6.0\ref\OddNumbers1067.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Multiples1044/1.0.0": {
+        "runtime": {
+          "Multiples1044.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multiples1044/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

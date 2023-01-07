@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MaiorePosicao1080/1.0.0": {
+        "runtime": {
+          "MaiorePosicao1080.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaiorePosicao1080/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

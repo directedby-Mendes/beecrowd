@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenBetweenfiveNumbers1065", "EvenBetweenfiveNumbers1065\EvenBetweenfiveNumbers1065.csproj", "{9DC96E92-6448-4C24-9FA4-8B2EC2E3182B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC96E92-6448-4C24-9FA4-8B2EC2E3182B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC96E92-6448-4C24-9FA4-8B2EC2E3182B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC96E92-6448-4C24-9FA4-8B2EC2E3182B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC96E92-6448-4C24-9FA4-8B2EC2E3182B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25E9B6AB-1A68-4F2B-8308-7572B8774D3E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.AssemblyInfoInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.AssemblyInfo.cs
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\bin\Debug\net6.0\AgeinDays1020.exe
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\bin\Debug\net6.0\AgeinDays1020.deps.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\bin\Debug\net6.0\AgeinDays1020.runtimeconfig.json
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\bin\Debug\net6.0\AgeinDays1020.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\bin\Debug\net6.0\AgeinDays1020.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\refint\AgeinDays1020.dll
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.pdb
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\AgeinDays1020.genruntimeconfig.cache
+C:\Users\Diego\Desktop\Ima\Exercicios\beecrowd\AgeinDays1020\AgeinDays1020\AgeinDays1020\obj\Debug\net6.0\ref\AgeinDays1020.dll
